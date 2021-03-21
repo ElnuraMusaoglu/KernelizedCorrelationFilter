@@ -32,6 +32,6 @@ python setup.py build_ext --inplace
 
 http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
 
-# 3. Download OTB100 Dataset to the dataset folder
+## 3. Download OTB100 Dataset to the dataset folder
 
 http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
